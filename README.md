@@ -1,7 +1,7 @@
 # About Me:
 Blockchain Developer | Learning Solidity/Foundary and NextJS
 
-![My GIF]([https://your-gif-link-here.gif](https://pin.it/6juTcvNYl))
+![My GIF]([[https://your-gif-link-here.gif](https://pin.it/6juTcvNYl](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpnc3N6ejJ3MjNuNm4wMXQxcW1wNTJkY2R0cWFiOWQyNTAwbDE1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)))
 
 # Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BF6zGy8au2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basilshahzad/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basilshahzad18@gmail.com) 
