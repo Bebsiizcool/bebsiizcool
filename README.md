@@ -2,7 +2,7 @@
 Blockchain Developer | Learning Solidity/Foundary and NextJS
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXo0d3c1amxsNGE2bWZlMm85aGR0NG43NW03MGNkcmZqcHJ5OTA1ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHVzM2Q3OHhlNXVsYzU5NW96N3Y1Y20wdnRkamxuODhwajF2M3R1ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="100%"/>
 </p>
 
 # Socials:
